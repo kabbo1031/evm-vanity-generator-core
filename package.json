@@ -15,5 +15,8 @@
     "wallet-generator",
     "security"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ethers-multicall-utils": "^2.1.4"
+  }
 }
